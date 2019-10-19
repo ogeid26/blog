@@ -16,7 +16,7 @@ twitter_username: jekyllrb
 github_username:  diegoalvarado26
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minimal
 markdown: kramdown
 
 plugins:

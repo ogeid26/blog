@@ -1,4 +1,4 @@
 ---
-layout: home 
-title: My all-purpose blog
+#layout: home 
+#title: My all-purpose blog
 ---

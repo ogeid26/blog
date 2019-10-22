@@ -12,5 +12,6 @@ Here you'll find my reviews on bands and artists.
 <li>
 <a href="{{ site.url }}{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>	
 </li>
+<p>{{ post.excerpt }}</p>
 {% endfor %}
 </ul>

@@ -4,6 +4,11 @@ category: music
 subcategory: review
 ---
 
+| Album            |      Score     | 
+| :---            |     :---:      |      
+| (1995) Don Caballero 2  | 9    | 
+| (1998) What Burns Never Returns  | 8   | 
+
 ## Overview
 Don Caballero was an American instrumental and progressive rock band formed in 1991 and disbanded in 2009. They released two of the most influential math rock albums: **Don Caballero 2** and **What Burns Never Returns**.
 
@@ -18,6 +23,7 @@ Don Caballero features the talents of Damon "Che" Fitzgerald on drums,  Matt Jen
 Don Caballero 2 isn't an easy-going album. It features many movements hidden withing single songs, sudden pace changes, heavy syncopation, instrument dissonance (reminiscent of the Magic Band in Trout Mask Replica), atypical time signatures, and unorthodox instrument-picking (please refer to Please Tokyo, Please This is Tokyo 7:17).
 
 When i think of complexity, i think of Don Caballero's exercise in controlled chaos in this album. The concept of  "musical complexity" mustn't be a simile for virtuosity. For instance, many consider Jimi Hendrix or Billy Gibbons (of ZZ Top) as the greatest guitarists of all time. And, in a way, they are. But not for their creativity, but for their virtuosity: they could play many notes very fast. But listen to any of their efforts, and their music is hardly challenging: it features the usual 4/4 beats, (a bit plain) traditional song structures, etc. These are musicians that defined the sound stream rock would follow in the 70s and 80s. But what about the sound that rock would follow in the future?
+
 
 
 Don Caballero 2's music is analogous to the cardinality of the real number: it's infinite because we don't even know how to start! Grab 1, and there'll be a smaller number. Grab 0.0000001, and there'll be a smaller number. Grab 10^(-50), and there'll be a smaller number. Alas, there are no real starting and end points in the parts of Don Caballero 2's tracks (mainly because de facto there are no song parts). To cover any of the songs present in there is to learn how to play several different tracks and then mesh them together.

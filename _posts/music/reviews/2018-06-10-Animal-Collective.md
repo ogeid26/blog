@@ -10,6 +10,7 @@ Animal Collective is group consisting of arrangements of Panda Bear (Noah Lennox
 
 ## As Animal Collective
 ---
+
 ## Here Comes the Indian (2003)
 
 Perhaps one of Animal Collective peak moments of experimentation was the amoebic, shapeless Here Comes the Indian. Recorded circa 2003 and released the 17th June 2003, this album blends and represents what the Collective stood for: nonsensical nonchalance, free-form experimentation, and what i really appreciate from them, the organic integration of synthesizers and field recordings into rock music.

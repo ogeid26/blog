@@ -2,18 +2,21 @@
 layout: default
 permalink: /music.html
 ---
+
 # Music
+<p>
+        Here you'll find my reviews on bands and artists.
+</p>
 
-Here you'll find my reviews on bands and artists.
-
-## Reviews
+<h1>Reviews</h1>
 <ul>
 	{% for post in site.posts %}
     {% if post.category contains "music" %}
 <li>
-<a href="{{ site.url }}{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>	
+<h2> <a href="{{ site.url }}{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>	
 </li>
 <p>{{ post.excerpt }}</p>
         {% endif %}
         {% endfor %}
 </ul>
+

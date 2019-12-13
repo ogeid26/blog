@@ -4,13 +4,14 @@ category: music
 subcategory: review
 ---
 
+
+## Overview
+Don Caballero was an American instrumental and progressive rock band formed in 1991 and disbanded in 2009. They released two of the most influential math rock albums: **Don Caballero 2** and **What Burns Never Returns**.
+
 | Album            |      Score     | 
 | :---            |     :---:      |      
 | (1995) Don Caballero 2  | 9    | 
 | (1998) What Burns Never Returns  | 8   | 
-
-## Overview
-Don Caballero was an American instrumental and progressive rock band formed in 1991 and disbanded in 2009. They released two of the most influential math rock albums: **Don Caballero 2** and **What Burns Never Returns**.
 
 ## Don Caballero 2
 

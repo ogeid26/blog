@@ -4,6 +4,7 @@ permalink: /programming.html
 ---
 # Programming
 
+Interesting stuff on programming (particularly on personal projects and uni stuff)
 <ul>
 	{% for post in site.posts %}
     {% if post.category contains "programming" %}

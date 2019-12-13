@@ -17,10 +17,11 @@ markdown: kramdown
 collections:
 
 defaults:
-        # - scope:
-        #     path: "_posts/music/reviews"
+  - 
+  scope:
+        path: "_posts/music/reviews"
         #     values: 
-        #     type: "review"
+         #     type: "review"
     
 
 

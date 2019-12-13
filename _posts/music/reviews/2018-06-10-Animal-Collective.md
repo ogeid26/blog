@@ -1,6 +1,6 @@
 ---
 title: Animal Collective
-category: music
+category: "music"
 subcategory: review
 ---
 

@@ -17,8 +17,8 @@ markdown: kramdown
 collections:
 
 defaults:
-  - 
-  scope:
+
+scope:
         path: "_posts/music/reviews"
         #     values: 
          #     type: "review"

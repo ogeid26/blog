@@ -11,7 +11,7 @@ permalink: /music.html
 <h1>Reviews</h1>
 <ul>
 	{% for post in site.posts %}
-    {% if post.category contains "music" %}
+      {% if post.category contains "music" %}
 <li>
 <h2> <a href="{{ site.url }}{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>	
 </li>

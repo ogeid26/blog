@@ -15,8 +15,5 @@ permalink: /music.html
 <li>
 <h2> <a href="{{ site.url }}{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>	
 </li>
-<p>{{ post.excerpt }}</p>
-        {% endif %}
-        {% endfor %}
 </ul>
 

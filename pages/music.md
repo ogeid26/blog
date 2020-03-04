@@ -10,7 +10,8 @@ permalink: /music.html
 
 <h1>Reviews</h1>
 <ul>
-{% for post in site.posts %}
+{% assign sorted-posts = site.posts | sort: 'title' %}
+{% for post in sorted-posts %}
 {% if post.category contains "music" %}
 <li>
 <h2> <a href="{{ site.url }}{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>	

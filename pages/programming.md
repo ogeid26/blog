@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page
+title: Programming
 permalink: /programming.html
 ---
-# Programming
 
 Interesting stuff on programming (particularly on personal projects and uni stuff)
 <ul>
@@ -11,7 +11,7 @@ Interesting stuff on programming (particularly on personal projects and uni stuf
 <li>
 <a href="{{ site.url }}{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>	
 </li>
-<p>{{ post.excerpt }}</p>
+{% comment %} <p>{{ post.excerpt }}</p> {% endcomment %}
 {% endif %}
 {% endfor %}
 </ul>

@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: page
+title: Music
 permalink: /music.html
 ---
 
-# Music
+
 <p>
         Here you'll find my reviews on bands and artists.
 </p>

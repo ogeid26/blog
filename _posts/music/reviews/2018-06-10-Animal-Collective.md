@@ -8,10 +8,17 @@ subcategory: review
 
 Animal Collective is group consisting of arrangements of Panda Bear (Noah Lennox), Avey Tare (David Portner), Geologist (Brian Ross), and Deakin (Joshua Dibb). They rose to prominence after the release of the single *My Girls*, in 2009.
 
+| Album                              | Rating |
+| --------------------               | :---:  |
+| Here Comes the Indian (2003)       | 7      |
+| Sung Tongs (2004)                  | 6      |
+|Person Pitch (2007)                 |7.5
+| Merriweather Post Pavillion (2008) | 7      |
+
 ## As Animal Collective
 ---
 
-## Here Comes the Indian (2003)
+## *Here Comes the Indian (2003)*
 
 Perhaps one of Animal Collective peak moments of experimentation was the amoebic, shapeless Here Comes the Indian. Recorded circa 2003 and released the 17th June 2003, this album blends and represents what the Collective stood for: nonsensical nonchalance, free-form experimentation, and what i really appreciate from them, the organic integration of synthesizers and field recordings into rock music.
 

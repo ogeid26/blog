@@ -1,6 +1,6 @@
 
 title: Postmodernism is bad for your health
-email: diegoalvarado26@hotmail.com
+# email: diegoalvarado26@hotmail.com
 
 description: My thoughts on stuff
 url: "https://diegoalvarado26.github.io"
@@ -8,33 +8,24 @@ baseurl: "/blog"
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 github_username: diegoalvarado26
 
 markdown: kramdown
 
-collections:
+twitter:
+    username: diego_alv26
+    card: summary
 
-defaults:
-
-scope:
-        path: "_posts/music/reviews"
-        #     values: 
-         #     type: "review"
-    
-
-
-
-
-social_links:
-        twitter: diego_alv26
-        github: diegoalvarado26
-
-                    
 theme: minima
 
 minima:
+  skin: dark
   date_format: "%b %-d, %Y"
+  social_links:
+        twitter: diego_alv26
+        github: diegoalvarado26
 
 plugins:
  - jekyll-feed

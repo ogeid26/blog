@@ -6,12 +6,12 @@ subcategory: review
 
 
 ## Overview
-Don Caballero was an American instrumental and progressive rock band formed in 1991 and disbanded in 2009. They released two of the most influential math rock albums: **Don Caballero 2** and **What Burns Never Returns**.
+Don Caballero was an American instrumental and progressive rock band formed in 1991 and disbanded in 2009. They released two of the most influential math rock albums: *Don Caballero 2* and *What Burns Never Returns*.
 
-| Album            |      Score     | 
-| :---            |     :---:      |      
-| (1995) Don Caballero 2  | 9    | 
-| (1998) What Burns Never Returns  | 8   | 
+| Album                           | Score |
+| :---                            | :---: |
+| *Don Caballero 2*  (1995)         | 9     |
+| *What Burns Never Returns* (1998) | 8     |
 
 ## Don Caballero 2
 
@@ -27,7 +27,7 @@ When i think of complexity, i think of Don Caballero's exercise in controlled ch
 
 
 
-Don Caballero 2's music is analogous to the cardinality of the real number: it's infinite because we don't even know how to start! Grab 1, and there'll be a smaller number. Grab 0.0000001, and there'll be a smaller number. Grab 10^(-50), and there'll be a smaller number. Alas, there are no real starting and end points in the parts of Don Caballero 2's tracks (mainly because de facto there are no song parts). To cover any of the songs present in there is to learn how to play several different tracks and then mesh them together.
+Don Caballero 2's music is analogous to the cardinality of the real number: it's infinite because we don't even know how to start! Grab 1, and there'll be a smaller number. Grab 0.0000001, and there'll be a smaller number. Grab 10<sup>-50</sup>, and there'll be a smaller number. Alas, there are no real starting and end points in the parts of Don Caballero 2's tracks (mainly because de facto there are no song parts). To cover any of the songs present in there is to learn how to play several different tracks and then mesh them together.
 
  70s and 80s rock is analogous to the cardinality of the natural numbers: we know it starts in one, then two follows, then three follows, and so on. To learn to cover, say, Guns' N Roses, is to learn a static song structure and follow a steady rhythm notation
 
@@ -54,10 +54,14 @@ Then comes Please Tokio, Please This is Tokio (a personal favourite). It is tiri
 
 The next tracks follow a similar suite:
 
-    P, P, P, antless features acrobatic drumming from Damon "Che" (i still have trouble thinking about everything he has in mind when he played this song live);
-    Repeat Defender is a story on its own: lasting a bit more than 10 minutes, the song's pseudo-sections, triggered by Williams and Baffield, feed the continuum constructed by Damon "Che", and features an ear-piercing middle section, which applies the Brechtian method, and completely isolates any buildup constructed;
-    Dick Suffers is Furious With You is a prime example of ordered chaos: a faux-drone interlude, followed by almost heroic arena rock, which, is juxtaposed along metal riffs and deviations. Sometimes these two converge, sometimes they coexist, and sometimes they annihilate each other;
-    Cold Knees (in April), the droniest section of the album (but perhaps less drone-esque than the Please Tokio finale), which seems to understand the scope of what hid in between Spiderland's essence;
-    Rolleblade Success History, an amorphous, anti-time signature, "free-rock", and actually really fun, entity.
+* **P, P, P, antless** features acrobatic drumming from Damon "Che" (i still have trouble thinking about everything he has in mind when he played this song live);
+
+* **Repeat Defender** is a story on its own: lasting a bit more than 10 minutes, the song's pseudo-sections, triggered by Williams and Baffield, feed the continuum constructed by Damon "Che", and features an ear-piercing middle section, which applies the Brechtian method, and completely isolates any buildup constructed;
+
+* **Dick Suffers is Furious With You** is a prime example of ordered chaos: a faux-drone interlude, followed by almost heroic arena rock, which, is juxtaposed along metal riffs and deviations. Sometimes these two converge, sometimes they coexist, and sometimes they annihilate each other;
+
+* **Cold Knees (in April)**, the droniest section of the album (but perhaps less drone-esque than the Please Tokio finale), which seems to understand the scope of what hid in between *Spiderland*'s essence;
+
+* **Rollerblade Success History**, an amorphous, anti-time signature, "free-rock", and actually really fun, entity.
 
 Don Caballero 2 may as well be one of rock music's most valuable and representative works: one can listen the influence of most of the latter rock deviations in the veins of this album. There's always something else to discover. Perhaps it is Damon Che's unorthodox, gymnastic drumming, perhaps it is Ian William's urgent guitar, perhaps it is Mike Banfield's looping and distortion, or perhaps it's just Matt Jenick's quiet, shy bass, in appreciation (and perhaps admiration) for all of his partners. This is methodical, erudite rock. This is the womb of math rock.

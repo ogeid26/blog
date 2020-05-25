@@ -6,8 +6,51 @@ subcategory: review
 
 ## Overview
 
-Rina Sawayama is an English musician. She released several singles through 2012-2016. From 2016 onwards she has worked with Clarence Clarity (who has produced nearly all of her songs recently), and release RINA, her self-titled EP in 2017.
+
+| Album            | Rating |
+| :---             | :---:  |
+| RINA (EP) (2017) | 8.5    |
+| SAWAYAMA (2020)  | 7      |
+
+Rina Sawayama is an English musician. She released several singles through 2012-2016. From 2016 onwards she has worked with Clarence Clarity (who has produced nearly all of her songs recently), and release **RINA**, her self-titled EP in 2017.
 
 ## RINA
-After years of standalone music in the form of singles, Rina released a brilliantly produced EP, RINA, in 2017. It is an album that delves with social anxiety and isolation in the Internet age. Songs like *Tunnel Vision*, with *Shamir*, narrate the tribulations of online dating,  while the spatial, nocturnal, and above all, dreamy interlude *Through The Wire*, whose phone samples and melancholic synths reinforce the idea of  depression that the lyrics detail. But ballads are not the only way in which this theme is expressed. *10-20-40* is an a'la *Bloc Party* indie rock song that talks about drugs abuse in a quasi romantic way (The less you feel, the more you know, a reason to leave me in a cruise control, a little white pill will take me back, i hope you undertand is my last resort, i've one it all).
-However, this album is also about self growth and self appreciation. Tracks like *Ordinary Superstar* meditate on Rina's status as a public figure and 
+
+<!-- <img src="https://img.discogs.com/81WL_Hd_jIwebwJ_jWOK1Yg8tk4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12053856-1527366871-4545.jpeg.jpg" alt="RINA" width="300" ALIGN="right" margin-right='10px'> -->
+
+
+Brilliantly arranged and featuring production from Clarence Clarity and Hoost, RINA is an album that delves with social anxiety and isolation in the Internet age. Songs like **Tunnel Vision**, with Shamir, narrate the tribulations of online dating.
+
+> Spinning planes
+>
+> Relationships, going down the drain
+
+While the spatial, nocturnal, and above all, dreamy interlude (which sets the bar very high for interludes to come) **Through The Wire**, reinforces the idea of  depression that the lyrics detail using phone samples and melancholic synths. 
+
+> I'll keep checking you out from my bedroom
+>
+> I'll keep feeling your arms through a screen
+>
+> I'll keep filling you in on my movements
+>
+> I'll keep being the girl that you see
+>
+>Through the wire
+
+<!-- This track transitions seamlessly (thematically, at least) into **Cyber Stockholm Syndrome**, the epitome --> 
+
+But ballads are not the only way in which this theme is expressed. **10-20-40** is an a'la *Bloc Party* indie rock song that talks about drug abuse in a quasi romantic way. I particularly like the bridge:
+
+>The less you feel, the more you know
+> A reason to leave me in a cruise control
+> A little white pill will take me back, 
+> I hope you understand is my last resort, 
+> I've one it all
+
+However, this album is also about self growth and self appreciation. Tracks like **Ordinary Superstar** meditate on Rina's status as a public figure, but also reinterprets what a "superstar" should be in the information age:
+
+> Don't you wanna be ordinary with me?
+
+And **Take Me as I Am**, with an explosive chorus and top-tier production (thank you Clarence, very cool!) pays homage to Christina Aguilera, Britney Spears, and 2000s pop while at the same time proposing a looser, more dynamic structure. To me, the bridge of this song is one of the brightest moments of 2010s pop.
+
+

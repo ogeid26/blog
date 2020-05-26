@@ -10,8 +10,14 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+# author:
+#   name: Diego Alvarado
+#   email: dmalvaradog26@gmail.com
+
 github_username: diegoalvarado26
 
+author: Diego Alvarado
+email : dmalvaradog26@gmail.com
 markdown: kramdown
 
 twitter:
@@ -21,11 +27,11 @@ twitter:
 theme: minima
 
 minima:
-  skin: dark
   date_format: "%b %-d, %Y"
   social_links:
         twitter: diego_alv26
         github: diegoalvarado26
+        instagram: diegoalvarado.26
 
 plugins:
  - jekyll-feed

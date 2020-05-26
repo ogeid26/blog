@@ -9,7 +9,7 @@ Interesting stuff on programming (particularly on personal projects and uni stuf
 	{% for post in site.posts %}
     {% if post.category contains "programming" %}
 <li>
-<h2><a href="{{ site.url }}{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
+<h3><a href="{{ site.url }}{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h3>
 </li>
 {% comment %} <p>{{ post.excerpt }}</p> {% endcomment %}
 {% endif %}

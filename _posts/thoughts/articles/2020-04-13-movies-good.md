@@ -1,6 +1,6 @@
 ---
 title: Movies are really nice!
-category: thoughts
+category: article
 ---
 
 Does the title of this entry sound stupid? Kind of. It might seem obvious that movies are nice, but my rediscovered taste for movies has made me rethink my approach when it comes to watching a movie.
@@ -25,7 +25,9 @@ Since then i have watched a lot of movies, mostly because i wanted to dive deepe
 
 * *Frances Ha* (2012) is really fun! It's the story of an at-times unemployed ballet dancer living in New York. I know that description can sound very generic and overused (why is New York always the setting of independent movies from the US?), but Frances' (the protagonist, very clearly) construction as a character is so light-hearted and natural that it takes the viewer by the hand as she wanders around her life's ups and downs. The whole movie was recorded in black and white, which cleverly contrasts with the movie's tone and overall Noah Baumbach's (the director) style.
 
-    Something i also found appreciation for is directors! Some have a pretty standard approach to film-making: translate the script into a motion picture. For instance, did you know each *Mission: Impossible* movie has been directed by a different person? If it were up to me to tell each director apart, i wouldn't be able to, because their styles are very similar. And i don't think that makes them better or worse directors: just like we can have many ways of watching a movie, a filmmaker can have different purposes when making a film.
+&nbsp;
+
+Something i also found appreciation for is directors! Some have a pretty standard approach to film-making: translate the script into a motion picture. For instance, did you know each *Mission: Impossible* movie has been directed by a different person? If it were up to me to tell each director apart, i wouldn't be able to, because their styles are very similar. And i don't think that makes them better or worse directors: just like we can have many ways of watching a movie, a filmmaker can have different purposes when making a film.
     However, i do appreciate what are called *films d'ateur* or *ateur* cinema. This term refers to directors that sign their movie through the framing, the photography, the *motifs* scattered throughout, and many, many more resources. To give an idea of what i mean i'll give a couple examples:
 
 * Denis Villeneuve is a French-Canadian director who has been consistently making great dramas. He has directed *Enemy* (2013), *Sicario* (2015), *Blade Runner* (2017), and many more. These movies, albeit different in nature and purpose, have similar and shared elements: the importance of the first frames as tone-setters, monochromatic settings for character presentations and dichromatic ones for the presentation of conflict or duality, cryptic, heavy use of ambiguous and symbolic imagery (specially in *Enemy*), and a long list of etceteras ([this video](https://www.youtube.com/watch?v=FYvimGit3nQ&t=539s) has give a thorough analysis of his approach to film-making).

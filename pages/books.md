@@ -1,17 +1,16 @@
 ---
 layout: page
-title: Books
+title: Libros
 permalink: /books.html
 ---
 
 <p>
-Book recommendations/reviews/thoughts.
+Recomendaciones/pensamientos/reseñas de libros.
 </p>
 
-You can check my book list over [here](https://www.notion.so/agendadiego/books-e94b8925165249638aba8d53690e9c39).
+Mi lista de libros está [acá](https://www.notion.so/agendadiego/books-e94b8925165249638aba8d53690e9c39).
 
-Do you disagree with some idea i have? Please feel free to send me a mail/make a comment on my book list! I'd love to argue the reasoning behind what i write :~)
-<h2> Book Reviews </h2>
+<h2> Autores </h2>
 
 <ul>
 	{% for post in site.posts %}

@@ -1,10 +1,10 @@
 ---
-title: Thoughts
+title: Pensamientos
 layout: page
 permalink: /thoughts.html
 ---
 
-<h2> Articles </h2>
+<h2> Artículos </h2>
 <ul>
 {% assign sorted-posts = site.posts | sort: 'date' %}
 {% for post in sorted-posts %}
@@ -17,7 +17,7 @@ permalink: /thoughts.html
 </ul>
 
 
-<h2> Poems </h2>
+<h2> Poemas </h2>
 <ul>
 {% assign sorted-posts = site.posts | sort: 'date' %}
 {% for post in sorted-posts %}

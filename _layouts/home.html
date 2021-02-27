@@ -7,28 +7,27 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  <h1>Welcome to my blog!</h1>
+  <h1>¡Hola! :~)</h1>
 
-  My name is Diego Alvarado, and here i'll be sharing thoughts i have as i go through <strike> high school</strike> college. Above is the navigation bar, where you'll find:
 
+  Soy Diego Alvarado, y acá comparto mis pensamientos. Entre otras cosas, vas a encontrar:
   <ul>
           &thinsp;
-          <li> Book reviews</li>
-          <li> Album Reviews </li>
-          <li> Music history articles </li>
-          <li> Thoughts on programming </li>
-          <li> Articles on varied themes </li>
-          <li> Poems </li>
+          <li>Reseñas de libros</li>
+          <li>Reseñas de música</li>
+          <li>Sugerencias/pensamientos sobre cosas de tecnología/programación</li>
+          <li>Pensamientos en general</li>
+          <li>Poemas</li>
   </ul>
 
-  <p> I also make music, you can listen to it by clicking <a href="https://diegoalvarado.bandcamp.com/"> here </a> </p>
-  <p> I try to write as many reviews as i can, but sometimes i can't map the network of ideas in my mind into words, so i just give numerical ratings on <em>Rate Your Music</em>. You can see my ratings <a href='https://rateyourmusic.com/~diegoalvarado'>here</a></p>
+  <p> También hago música, y si quieres la puedes escuchar <a href="https://diegoalvarado.bandcamp.com/"> acá </a> </p>
+  <p> Intento hacer reseñas de la mayoría de álbumes que escucho, pero a veces solo los puntuo en  <em>Rate Your Music</em>.
+    El link a mi cuenta está <a href='https://rateyourmusic.com/~diegoalvarado'>acá</a></p>
 
-  <p> If you find something interesting, feel free to contact me! You can find my email at the bottom of this page :~) </p>
 
           &nbsp;
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Recent Posts" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Entradas Recientes" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts limit: 5 -%}
       <li>

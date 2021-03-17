@@ -31,7 +31,7 @@ src="https://www.elquintobeatle.com/wp-content/uploads/2019/04/sinjin-hawke-zora
 <div>
 <img class="right"
 src="https://imgur.com/Jixt617.jpg"
-style="width:60%;">
+style="width:55%;">
 </div>
 </div>
 La colaboración entre la austriaca Zora Jones y el canadiense-estadounidense Sinjin Hawke recopila, en sus 18 minutos de duración, una épica de sintetizadores contrapuestos y voces electrónicamente manipuladas, las cuales, en convergencia hacia el *drop* característico de Zora Jones (que en realidad presta bastante de las decisiones de producción del colectivo argentino AGVA, en específico de [EL PLVYBXY](https://soundcloud.com/plvybxy){:target="_blank"}), crean una atmósfera de constante tensión.

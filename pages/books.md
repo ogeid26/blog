@@ -14,7 +14,7 @@ Mi lista de libros está [acá](https://www.notion.so/agendadiego/books-e94b8925
 
 <ul>
 	{% for post in site.posts %}
-    {% if post.category contains "book", post.subcategory contains "review" %}
+    {% if post.category contains "book" and post.subcategory contains "review" %}
 <li>
 
 <h3><a href="{{ site.url }}{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h3>

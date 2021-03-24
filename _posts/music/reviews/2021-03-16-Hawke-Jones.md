@@ -45,7 +45,7 @@ Donde creo que el álbum carece un poco es en la parte del medio. *Lurk 101* es 
 La canción final me parece un cierre maravilloso a este álbum/EP (ni idea de lo que sea formalmente): **And You Were One** es una canción super linda y wholesome, que por alguna razón me llena de esperanza. Es como un abrazo después de un rave del que no te acuerdas ni cómo regresaste. Me parece creativo cómo Jones y Hawke suben la frecuencia del subbajo, como si este quisiera purificarse y ascender al reino de las altas frecuencias dominado por la disonante voz de Zora Jones, y por tanto, en parte, juega el doble rol de percusión y melodía. Una entrega interesante y que contribuye al escenario de
 
 <div>
-<b>electrónica/ glitch pop / hip hop experimental  UK Garage</b>
+<b>electrónica / glitch pop / hip hop experimental  UK Garage</b>
  </div>
 <br/><br/>
 

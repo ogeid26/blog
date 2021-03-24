@@ -1,5 +1,4 @@
-ines (16 sloc) 709 Bytes
-{%- if page.comments != false and jekyll.environment == "production" -%}
+{% if page.comments != false or jekyll.environment == "production" %}
 
   <div id="disqus_thread"></div>
   <script>
@@ -15,4 +14,4 @@ ines (16 sloc) 709 Bytes
     })();
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-{%- endif -%}
+{% endif %}

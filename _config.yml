@@ -2,7 +2,7 @@
 title: shitposting mental
 # email: diegoalvarado26@hotmail.com
 
-description: My thoughts on stuff
+description: Pensamientos
 url: "https://diegoalvarado26.github.io"
 baseurl: "/blog"
 
@@ -25,6 +25,12 @@ twitter:
     card: summary
 
 theme: minima
+
+google-analytics: 266659728
+
+disqus: 
+  shortname: diegoalvarado26
+  url: "https://diegoalvarado26.github.io"
 
 minima:
   date_format: "%b %-d, %Y"

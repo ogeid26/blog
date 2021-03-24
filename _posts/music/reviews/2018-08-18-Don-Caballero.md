@@ -2,6 +2,8 @@
 title: Don Caballero
 category: music
 subcategory: review
+comments: true
+layout: post
 ---
 
 

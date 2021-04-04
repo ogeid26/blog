@@ -29,8 +29,8 @@ theme: minima
 google-analytics: 266659728
 
 disqus: 
-  shortname: diegoalvarado26
-  url: "https://diegoalvarado26.github.io"
+  shortname: diegoalvarado
+  url: "https://diegoalvarado26.github.io/"
 
 minima:
   date_format: "%b %-d, %Y"

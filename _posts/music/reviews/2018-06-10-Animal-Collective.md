@@ -1,6 +1,6 @@
 ---
 title: Animal Collective
-category: "music"
+category: music
 subcategory: review
 ---
 
@@ -22,7 +22,6 @@ Animal Collective is group consisting of arrangements of Panda Bear (Noah Lennox
 ## Here Comes the Indian (2003)
 
 Perhaps one of Animal Collective peak moments of experimentation was the amoebic, shapeless Here Comes the Indian. Recorded circa 2003 and released the 17th June 2003, this album blends and represents what the Collective stood for: nonsensical nonchalance, free-form experimentation, and what i really appreciate from them, the organic integration of synthesizers and field recordings into rock music.
-
 
 Where does this album fit in their discography? It comes after the debut Spirit They've Vanished, Spirit They're Gone (apocalyptic lullaby), but before Sung Tongs (freak folk). This album features the 4 members for the first time, and this is reflected in the convoluted, all-over-the-place production of the album.
 

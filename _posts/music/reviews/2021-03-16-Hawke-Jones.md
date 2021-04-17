@@ -13,11 +13,10 @@ div {
     opacity: 0.8;
 }
 .right {
-    margin-right: -1450px;
+    margin-right: -1500px;
     margin-top: -50px;
-    margin-bottom: -700px;
+    margin-bottom: -650px;
     opacity: 0.8;
-
 }
 </style>
 
@@ -25,12 +24,12 @@ div {
 <div>
 <div>
   <img class="left" 
-src="https://www.elquintobeatle.com/wp-content/uploads/2019/04/sinjin-hawke-zora-jones-2019-1-1068x854.jpg"
+src="https://images.prismic.io/rewirefestival/NmJlYzYwMWYtOWE4My00MzJhLWI0ZWUtYjRhYjI4ZDZlZWFh_sinjin-hawke-zora-jones--rewire-2019--002.jpg?auto=compress,format&rect=0,125,1058,595&w=1200&h=675"
   style="width:100%;">
 </div>
 <div>
 <img class="right"
-src="https://imgur.com/Jixt617.jpg"
+src="https://img.discogs.com/B0kVJFdacsS9qJ8SJuy6gc8mA6Y=/500x500/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-2121060-1445112176-2696.jpeg.jpg"
 style="width:55%;">
 </div>
 </div>

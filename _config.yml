@@ -21,7 +21,7 @@ email : dmalvaradog26@gmail.com
 markdown: kramdown
 
 twitter:
-    username: diegoalvarado26
+    username: ogeidtw
     card: summary
 
 theme: minima
@@ -34,9 +34,9 @@ disqus:
 minima:
   date_format: "%b %-d, %Y"
   social_links:
-        twitter: diegoalvarado26
+        twitter: ogeidtw
         github: diegoalvarado26
-        instagram: diegoalvarado.26
+        instagram: diegoalvarado.26/
 
 plugins:
  - jekyll-feed

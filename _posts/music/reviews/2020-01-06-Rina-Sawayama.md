@@ -6,12 +6,6 @@ subcategory: review
 
 ## Overview
 
-
-| Album            | Rating |
-| :---             | :---:  |
-| RINA (EP) (2017) | 8.5    |
-| SAWAYAMA (2020)  | 7      |
-
 Rina Sawayama is an English musician. She released several singles through 2012-2016. From 2016 onwards she has worked with Clarence Clarity (who has produced nearly all of her songs recently), and release **RINA**, her self-titled EP in 2017.
 
 ## RINA

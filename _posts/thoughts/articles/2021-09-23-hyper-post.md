@@ -41,5 +41,4 @@ poco (estaba caminando y este pensamiento me vino de la nada). **PoNc3o RoMaNtiK
 reggaetón de los 2000s con distorsión con bruscas transiciones, pero que al estar tan desvirtuadas en espíritu sonaban
 sutiles. Puede que parezca medio gil ahora que lo pienso a profundidad, pero me pareció interesante meterme en ese hoyo
 mental: <b>era la música o eran los recuerdos que había atado a la música lo que me atraían hacia ella?</b>. Ni idea.
-
-
+    

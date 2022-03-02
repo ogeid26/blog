@@ -5,3 +5,5 @@ Gemfile.lock
 *.gem
 .vscode
 vscode
+.vscode/settings.json
+.vscode/settings.json

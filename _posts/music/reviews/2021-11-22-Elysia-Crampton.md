@@ -15,7 +15,7 @@ div {
 ## Overview
 
 Elysia Crampton es una artista californiana con ascendencia boliviana. Conocida bajo el nombre E+E, adoptó su nombre
-real al relocarse a Virginia.
+real al relocarse a Virginia    .
 
 ## American Drift
 <div>

@@ -56,6 +56,7 @@ src="https://m.media-amazon.com/images/I/41M7Sv2p2JL._UX358_FMwebp_QL85_.jpg"
 style="width:400px"
 >
 </div>
+
 **ASMA** construye una atmósfera acuosa (como en esos [niveles](https://www.youtube.com/watch?v=dZhlUPSxxRM) de Mario en el agua), de color azul oscuro, siniestro en tanto su estética (y en menor medida su producción) recuerda al océano en la noche: espacioso, desconocido y misterioso. Las comparaciones con Sophie // Iglooghost // Sam Gellaitry son inevitables, y es que estos sintetizadores que rebotan entre sí y resortes metálicos desfasados ya son lugar común en el pop actual o "hyperpop" (etiqueta a la que ya no puedo encontrarle el sentido). Sin embargo Desorden como escultor es tan o hasta más interesante que Desorden como cantante: *bruma* y *aremm* me parecen maravillosas. La verdad, para ser un álbum de menos de 5 minutos de duración y el debut de Camilo Desorden está decentemente planteado. Y bueno, hablando de álbumes cortos también escuché
 
 ## PinkPantheress - to hell with it

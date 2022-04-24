@@ -36,7 +36,7 @@ minima:
   social_links:
         twitter: ogeidtw
         github: diegoalvarado26
-        instagram: diegoalvarado.26
+        instagram: ogeid.ig
 
 plugins:
  - jekyll-feed

@@ -32,7 +32,7 @@ disqus:
   url: "https://diegoalvarado26.github.io/"
 
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%-d %b, %Y"
   social_links:
         twitter: ogeidtw
         github: diegoalvarado26

@@ -1,5 +1,5 @@
 ---
-title: La electrónica y su habilidad por comunicar ternura, pero también generar Asombro
+title: La electrónica y su habilidad por comunicar ternura, pero también generar asombro
 category: article
 ---
 
@@ -23,9 +23,4 @@ Pero hay maneras distintas de expresar esta ternura, maneras “poco ortodoxas�
 * *Purity Shards* de Iglooghost
 
 Menciono los mismos cuatros artistas en ambos ejemplos porque creo que el dominio de uno (el uso de técnicas de producción “poco ortodoxas” para generar asombro) permite mayor libertad en el otro (la  habilidad para comunicar ternura). Es como cuando estudias álgebra y te introducen el concepto de un vector en dos dimensiones, pero luego te das cuenta que la decisión de dos dimensiones (pedagógica, supongo) es arbitraria, y en realidad puedes tener vectores con n dimensiones y, por tanto, herramientas para manejar estos vectores n-dimensionales, por lo que regresar a dos dimensiones es regresar a terreno conocido en el que ya tienes cancha y puedes usar herramientas muy poderosas para hacer cosas sencillas.  
-De manera similar, un dominio de la síntesis de sonido de una artista y las herramientas que esto requiere le permite acercarse a emociones humanas de maneras originales, y por tanto de transmitir la ternura (o cualquier emoción en realidad) usando herramientas que no se habían usado antes. Puntualmente:
-
-* El fuerte de Arca, a lo largo de los años, ha sido el cubismo abstracto: texturas fragmentadas (a veces hasta a su detrimento) que se niegan a concluir, a llegar a algún punto final. Recientemente, usó esta técnica para acercarse al reggaetón en la serie de kicks de maneras que fueron poco ortodoxas para el género, pero que eran terreno conocido para ella. Pero en 2012 realizó una revisión muy original del canon del hip hop (de la época) en Baron Libre
-* Sophie, dueña del 
-
-
+De manera similar, un dominio de la síntesis de sonido de una artista y las herramientas que esto requiere le permite acercarse a emociones humanas de maneras originales, y por tanto de transmitir la ternura (o cualquier emoción en realidad) usando herramientas que no se habían usado antes.

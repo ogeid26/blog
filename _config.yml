@@ -1,18 +1,13 @@
 
 title: shitposting mental
-# email: diegoalvarado26@hotmail.com
 
-description: Pensamientos
+description: pensamientos // reflexiones
 url: "https://diegoalvarado26.github.io"
 baseurl: "/blog"
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# author:
-#   name: Diego Alvarado
-#   email: dmalvaradog26@gmail.com
 
 github_username: diegoalvarado26
 
